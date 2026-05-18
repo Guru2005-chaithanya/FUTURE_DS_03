@@ -27,7 +27,6 @@ The dashboard tracks lead generation, conversion rates, funnel drop-offs, and mo
 - Monthly trends showed fluctuations in lead acquisition performance.
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
-
+https://github.com/Guru2005-chaithanya/FUTURE_DS_03/blob/main/dashboard.pdf
 ## Author
 Guru Chaithanya
